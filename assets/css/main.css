@@ -2059,7 +2059,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #FFFDF5;
+		background: #f3f3f3;
 		border-bottom: solid 1px #ccc;
 		padding: 5em 0 4em 0;
 		text-align: center;
@@ -2098,10 +2098,6 @@ input, select, textarea {
 					color: #5d5d5d;
 					text-decoration: none;
 					padding: 0.6em 1.2em 0.6em 1.2em;
-					-moz-transition: background-color .25s ease-in-out;
-					-webkit-transition: background-color .25s ease-in-out;
-					-ms-transition: background-color .25s ease-in-out;
-					transition: background-color .25s ease-in-out;
 					outline: 0;
 				}
 
@@ -2143,7 +2139,7 @@ input, select, textarea {
 		}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
+				color: #f3f3f3;
 			}
 
 		.dropotron.level-0 {
@@ -2184,7 +2180,7 @@ input, select, textarea {
 		}
 
 			#banner header h2 {
-				color: #fff;
+				color: #f3f3f3;
 				font-weight: 700;
 				font-size: 2.5em;
 				margin: 0 0 0.65em 0;
@@ -2232,7 +2228,7 @@ input, select, textarea {
 				top: 0;
 				display: block;
 				z-index: -1;
-				box-shadow: 32px 0 0 0 #FFFDF5, 0 -32px 0 0 #fff, 0 32px 0 0 #fff, 32px 32px 0 0 #fff, 32px -32px 0 0 #fff, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+				box-shadow: 32px 0 0 0 #f3f3f3, 0 -32px 0 0 #f3f3f3, 0 32px 0 0 #f3f3f3, 32px 32px 0 0 #f3f3f3, 32px -32px 0 0 #f3f3f3, 0 0 32px 0 rgba(0, 0, 0, 0.15);
 			}
 
 			#intro .middle:after {
@@ -2244,7 +2240,7 @@ input, select, textarea {
 				top: 0;
 				display: block;
 				z-index: -1;
-				box-shadow: -32px 0 0 0 #FFFDF5, 0 -32px 0 0 #fff, 0 32px 0 0 #fff, -32px 32px 0 0 #fff, -32px -32px 0 0 #fff, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+				box-shadow: -32px 0 0 0 #f3f3f3, 0 -32px 0 0 #f3f3f3, 0 32px 0 0 #f3f3f3, -32px 32px 0 0 #f3f3f3, -32px -32px 0 0 #f3f3f3, 0 0 32px 0 rgba(0, 0, 0, 0.15);
 			}
 
 		#intro .button {
@@ -2283,7 +2279,7 @@ input, select, textarea {
 
 	#footer {
 		position: relative;
-		color: #858484;
+		color: #ffffff;
 		padding: 4em 0;
 	}
 
@@ -2299,7 +2295,7 @@ input, select, textarea {
 		}
 
 		#footer a {
-			color: #c5c4c4;
+			color: #ffffff;
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
@@ -2591,7 +2587,7 @@ input, select, textarea {
 						height: 40px;
 						line-height: 40px;
 						font-size: 18px;
-						color: #fff;
+						color: #ffffff;
 						text-align: center;
 						background: rgba(150, 150, 150, 0.75);
 						border-radius: 5px;
@@ -2628,7 +2624,7 @@ input, select, textarea {
 
 				#navPanel .link {
 					display: block;
-					color: #888;
+					color: #ffffff;
 					text-decoration: none;
 					height: 44px;
 					line-height: 44px;
